@@ -1,0 +1,13 @@
+# Selenium for browser automation
+selenium==4.25.0
+
+# PyTest for running the tests
+pytest==8.3.3
+
+# WebDriver Manager for managing browser drivers automatically
+webdriver-manager==4.0.2
+
+# Requests library (if API testing is needed or any other utilities)
+requests==2.32.3
+
+playwright

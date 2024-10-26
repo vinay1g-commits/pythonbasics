@@ -1,0 +1,5 @@
+pip install -r pytestframework/requirements.txt
+playwright install
+pip install pytest-asyncio
+
+pytest pytestframework/tests/test_search.py
